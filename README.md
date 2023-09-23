@@ -1,5 +1,8 @@
+
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)]
 <h1 align="center">Hi 👋, I'm Dipak Borase</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="2wCEAAkGBxITEhUTExMWFRUXGBoWFxgYFhkeFhgfGBkXGRgfGB4aHSgiHR8lGxoZITEhJisrLi4uGx8zODMsNygtLisBCgoKDg0OGxAQGy8lICUvLS0vLTAtLTAvLi8vLS0tLS0vOC0tLTAtLS8tLS8tLy0tLS0tLy0tLy0tLS0tLS0tLf"></img>
 
 - 🌱 I’m currently learning **React-native**
 
