@@ -1,9 +1,9 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
-<h1 align="center">Hi 👋, I'm Dipak Borase</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
+<h1 align="center">Hi 👋, I'm Dipak Borase</h1>
+<h3 align="center">Hiya sailor 👋, I'm Dipak Borase. Currently in my Final year of Bachelor of Technology in Information Technology. I'm a Software Tech Developer who is enthusiastic about building revolutionary tech and software, creating and developing on ideas that were never tried before.Building software technology is my passion.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 - 🌱 I’m currently learning **React-native**
 
 - 💬 Ask me about **MERN PHP**
@@ -14,6 +14,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/dipak-borase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-borase" height="30" width="40" /></a>
 <a href="https://instagram.com/dipak.borase.376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipak.borase.376" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/borasedipak18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="borasedipak18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dipakborase376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipakborase376" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dipak331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dipak331" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
