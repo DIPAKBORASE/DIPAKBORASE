@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+![MasterHead](https://github.com/DIPAKBORASE/DIPAKBORASE/blob/main/Software%20Developer.png)
 
 <h1 align="center">Hi 👋, I'm Dipak Borase</h1>
 <h3 align="center">Hiya sailor 👋, I'm Dipak Borase. Currently in my Final year of Bachelor of Technology in Information Technology. I'm a Software Tech Developer who is enthusiastic about building revolutionary tech and software, creating and developing on ideas that were never tried before.Building software technology is my passion.</h3>
