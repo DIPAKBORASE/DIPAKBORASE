@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 <h1 align="center">Hi 👋, I'm Dipak Borase</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="2wCEAAkGBxITEhUTExMWFRUXGBoWFxgYFhkeFhgfGBkXGRgfGB4aHSgiHR8lGxoZITEhJisrLi4uGx8zODMsNygtLisBCgoKDg0OGxAQGy8lICUvLS0vLTAtLTAvLi8vLS0tLS0vOC0tLTAtLS8tLS8tLy0tLS0tLy0tLy0tLS0tLS0tLf">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 - 🌱 I’m currently learning **React-native**
 
